@@ -1,0 +1,9 @@
+{
+    "name"          : "Pruebas-heroku",
+    "version"       : "0.1.0",
+    "description"   :  "Pruebas con node en un servidor",
+    "main"          : "app.js",
+    "dependencies"  :{
+        "express"   : "lasted" 
+    }
+}
