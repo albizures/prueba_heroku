@@ -4,6 +4,6 @@
     "description"   :  "Pruebas con node en un servidor",
     "main"          : "app.js",
     "dependencies"  :{
-        "express"   : "lasted" 
+        "express"   : "*" 
     }
 }
